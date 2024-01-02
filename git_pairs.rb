@@ -1,2 +1,3 @@
-### Heading for Git Pairs Practice
-## Git pair workflow
+class Greeting
+  #put code for this class here.
+end
