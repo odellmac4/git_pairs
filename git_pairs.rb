@@ -1,3 +1,2 @@
-class Greeting
-  #put code for this class here.
-end
+### Heading for Git Pairs Practice
+## New line added
